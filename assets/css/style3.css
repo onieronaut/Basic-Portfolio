@@ -1,3 +1,4 @@
+/* Stylesheet for Portfolio Image Boxes */
 img {
     border: 1px solid #dddddd;
     margin: 10px;
@@ -19,7 +20,7 @@ p {
 }
 
 .row3 {
-    position: relative;]
+    position: relative;
 }
 
 #box1 {
